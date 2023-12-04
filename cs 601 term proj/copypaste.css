@@ -1,0 +1,22 @@
+@media only screen and (max-width: 600px){
+    
+    .firstbackimage{
+        background-image: url(deathstarmobile.png);
+    }
+    #namep{
+        font-size: 50px;
+    }
+    #we{
+        width: 300px;
+        height: auto;
+    }
+    .int img{
+        width: 80px;
+        height: 80px;
+    }
+
+}
+
+@media only screen and (min-height: 10px){
+
+}
